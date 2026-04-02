@@ -1,0 +1,5 @@
+host = "localhost"
+database = "PhoneBook"
+user = "postgres"
+password = "596211"
+port = "5432"
